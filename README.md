@@ -10,11 +10,14 @@
 </div><br />
 
 
+
+
+<div align="center">✏️Git Status✏️</div>
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KongJJoki&show_icons=true&include_all_commits=true&theme=shades-of-purple">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KongJJoki&layout=compact&theme=shades-of-purple">
 </p>
 
-🏆MY Rank
+<div align="center">🏆MY Rank🏆</div>
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeonga0208)](https://solved.ac/jeonga0208)
