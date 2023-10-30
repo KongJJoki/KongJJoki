@@ -12,7 +12,7 @@
 
 
 
-<div align="center">✏️Git Status✏️</div>
+<div align="center">✏️Git Status✏️</div><br />
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KongJJoki&show_icons=true&include_all_commits=true&theme=shades-of-purple">
