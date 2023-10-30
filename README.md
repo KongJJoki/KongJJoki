@@ -2,14 +2,14 @@
 <div align="center">안녕하세요 🐹김정아🐹입니다!</div>
 <br />
 
-📭Mail📭<br /><br />
+📭Mail📭<br />
 
 [![Gmail Badge](https://img.shields.io/badge/-jeonga0208@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jeonga0208@gmail.com)](mailto:jeonga0208@gmail.com) 
 
 <br />
-<div align="center">My Skills : 
+✨My Skills✨<br />
   <img src="https://img.shields.io/badge/-C%23-000000?logo=Csharp&style=flat"> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-</div><br />
+<br />
 
 
 
