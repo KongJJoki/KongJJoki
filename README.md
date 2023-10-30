@@ -2,7 +2,7 @@
 
 ### HELLO! My name is 🐹KongJJok🐹
 ---
-🎮!I Love Game!🎮
+🎮I Love Game🎮
 
 <br />
 
