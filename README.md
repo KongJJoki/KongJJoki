@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=KongJJoki&fontSize=50&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,5,30&height=200&section=header&text=KongJJoki&fontSize=50&section=footer" />
 안녕하세요! 🐹 김정아 입니다.
 <br />
 <br />
