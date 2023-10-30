@@ -9,8 +9,6 @@
 </div><br />
 
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=KongJJoki&show_icons=true&include_all_commits=true)](https://github.com/KongJJoki/github-readme-stats)
-<br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KongJJoki&layout=compact)](https://github.com/KongJJoki/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=KongJJoki&show_icons=true&include_all_commits=true)](https://github.com/KongJJoki/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KongJJoki&layout=compact)](https://github.com/KongJJoki/github-readme-stats)
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeonga0208)](https://solved.ac/jeonga0208)
