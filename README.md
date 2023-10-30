@@ -7,7 +7,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-jeonga0208@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jeonga0208@gmail.com)](mailto:jeonga0208@gmail.com) 
 
 <br />
-✨My Skills✨<br />
+
+✨My Skills✨
+<br />
 
 <p>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"> 
