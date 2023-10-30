@@ -39,7 +39,9 @@
 
 🌱Git Grass🌱
 ---
-
+<p>
+  ![](./profile-3d-contrib/profile-green-animate.svg)
+</p>
 
 ✏️Git Status✏️
 ---
@@ -54,10 +56,5 @@
 
 
 
-
-
-
-
-![](./profile-3d-contrib/profile-green-animate.svg)
 
 
