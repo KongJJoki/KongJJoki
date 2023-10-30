@@ -31,8 +31,10 @@
 📘My Study📙
 ---
 <p>
+  <a>
   <a href="https://www.notion.so/d6dcf48a32f1414184b4019a834c43ef>
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+  </a>
 </p>
 
 
