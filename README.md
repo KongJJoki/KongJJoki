@@ -6,9 +6,11 @@
 
 <br />
 
-📭Mail📭
+📭Address📭
 ---
-[![Gmail Badge](https://img.shields.io/badge/-jeonga0208@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jeonga0208@gmail.com)](mailto:jeonga0208@gmail.com) 
+<p>
+[![Gmail Badge](https://img.shields.io/badge/-jeonga0208@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jeonga0208@gmail.com)](mailto:jeonga0208@gmail.com)
+</p>
 
 <br />
 
@@ -25,7 +27,12 @@
 </p>
 <br />
 
-
+📘My Study📙
+---
+<p>
+  <a href="https://www.notion.so/d6dcf48a32f1414184b4019a834c43ef>
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+</p>
 
 
 ✏️Git Status✏️
