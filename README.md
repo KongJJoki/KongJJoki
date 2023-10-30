@@ -4,4 +4,4 @@
 <br />
 <div align="center">My Skills : <img src="https://img.shields.io/badge/-C%23-000000?logo=Csharp&style=flat"> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
 </div>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeonga0208)](https://solved.ac/jeonga0208/)
