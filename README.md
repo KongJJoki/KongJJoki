@@ -1,6 +1,6 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=200&section=header&text=KongJJoki🌟&fontSize=40&fontAlignY=30&fontAlign=80" /></div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=200&section=header&text=KongJJok🌟&fontSize=40&fontAlignY=30&fontAlign=80" /></div>
 
-### HELLO! My name is 🐹KongJJoki🐹
+### HELLO! My name is 🐹KongJJok🐹
 
 <br />
 
