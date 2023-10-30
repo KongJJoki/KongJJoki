@@ -1,5 +1,5 @@
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=200&section=header&text=KongJJoki🌟&fontSize=40&fontAlignY=30&fontAlign=80" /></div>
-<div align="center">###안녕하세요! 🐹김정아🐹입니다!</div>
+<div align="center">안녕하세요! 🐹김정아🐹입니다!</div>
 <br />
 
 [![Gmail Badge](https://img.shields.io/badge/-jeonga0208@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jeonga0208@gmail.com)](mailto:jeonga0208@gmail.com) 
