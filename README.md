@@ -1,5 +1,5 @@
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=200&section=header&text=KongJJoki🌟&fontSize=40&fontAlignY=30&fontAlign=80" /></div>
-<div align="center">안녕하세요 🐹김정아🐹입니다!</div>
+<div align="center">HELLO! My name is 🐹KongJJoki🐹!</div>
 <br />
 
 📭Mail📭<br />
