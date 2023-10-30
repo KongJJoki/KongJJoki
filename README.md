@@ -4,5 +4,8 @@
 <br />
 <div align="center">My Skills : <img src="https://img.shields.io/badge/-C%23-000000?logo=Csharp&style=flat"> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
 </div>
+poetry install             # 의존성 설치
+poetry shell               # 가상환경에 진입
+python manage.py runserver # 서버 실행
 [![Solved.ac
-jeonga0208](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={jeonga0208})](https://solved.ac/{jeonga0208})
