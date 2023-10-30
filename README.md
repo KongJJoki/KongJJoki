@@ -37,15 +37,6 @@
 </p>
 <br />
 
-🌱Git Grass🌱
----
-<p>
-  
-![](./profile-3d-contrib/profile-gitblock.svg)
-
-  
-</p>
-
 ✏️Git Status✏️
 ---
 <p>
@@ -57,7 +48,11 @@
 ---
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeonga0208)](https://solved.ac/jeonga0208)
 
+🌱Git Grass🌱
+---
+<p>
+  
+![](./profile-3d-contrib/profile-gitblock.svg)
 
-
-
-
+  
+</p>
