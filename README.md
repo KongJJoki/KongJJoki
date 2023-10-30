@@ -1,4 +1,4 @@
-![reversal](https://capsule-render.vercel.app/api?type=rect&text=RECT&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=radical)
+![reversal](https://capsule-render.vercel.app/api?type=rect&text=waving&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=shades-of-purple)
 안녕하세요! 🐹 김정아 입니다.
 <br />
 <br />
