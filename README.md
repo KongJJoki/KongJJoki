@@ -5,14 +5,13 @@
 
 <br />
 
-📭Mail📭<br />
+📭Mail📭
 ---
 [![Gmail Badge](https://img.shields.io/badge/-jeonga0208@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jeonga0208@gmail.com)](mailto:jeonga0208@gmail.com) 
 
 <br />
 
 ✨My Skills✨
-<br />
 ---
 <p>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"> 
@@ -28,13 +27,13 @@
 
 
 
-✏️Git Status✏️<br />
+✏️Git Status✏️
 ---
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KongJJoki&show_icons=true&include_all_commits=true&theme=shades-of-purple">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KongJJoki&layout=compact&theme=shades-of-purple">
 </p>
 
-🏆MY Rank🏆<br />
+🏆MY Rank🏆
 ---
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeonga0208)](https://solved.ac/jeonga0208)
