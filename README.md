@@ -41,7 +41,8 @@
 ---
 <p>
   
-  ![](./profile-3d-contrib/profile-3d-contrib/profile-gitblock.svg)
+![](./profile-3d-contrib/profile-gitblock.svg)
+
   
 </p>
 
