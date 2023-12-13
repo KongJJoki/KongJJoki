@@ -35,7 +35,7 @@
 📘My Study📙
 ---
 <p>
-  <a href="https://www.notion.so/d6dcf48a32f1414184b4019a834c43ef">
+  <a href="[https://www.notion.so/d6dcf48a32f1414184b4019a834c43ef](https://my-world-.notion.site/81c5c23efbed4637b3ea404add4bbdcb?pvs=4)">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white&link=https://www.notion.so/d6dcf48a32f1414184b4019a834c43ef">
   </a>
 </p>
