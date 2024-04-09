@@ -39,7 +39,7 @@
 📘My Study📙
 ---
 <p>
-  <a href="https://my-world-.notion.site/81c5c23efbed4637b3ea404add4bbdcb?pvs=4">
+  <a href="https://kong-world.notion.site/d6dcf48a32f1414184b4019a834c43ef?pvs=4">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white&link=https://www.notion.so/d6dcf48a32f1414184b4019a834c43ef">
   </a>
 </p>
