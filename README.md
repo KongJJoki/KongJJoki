@@ -51,9 +51,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KongJJoki&layout=compact&theme=shades-of-purple">
 </p>
 <br />
-
-🏆MY Rank🏆
----
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeonga0208)](https://solved.ac/jeonga0208)
-
-<br />
